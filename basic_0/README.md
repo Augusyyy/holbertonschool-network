@@ -1,0 +1,7 @@
+- Please | 物理层（Physical Layer）
+- Do | 数据链路层（Data Link Layer）
+- Not | 网络层（Network Layer）
+- Tell （the）| 传输层（Transport Layer）
+- Secret | 会话层（Session Layer）
+- Password （to）| 表示层（Presentation Layer）
+- Anyone | 应用层（Application Layer）
